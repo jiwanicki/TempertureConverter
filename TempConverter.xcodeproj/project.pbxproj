@@ -13,6 +13,7 @@
 		FEDFD95A19EF6B3C00B439AE /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FEDFD95919EF6B3C00B439AE /* Images.xcassets */; };
 		FEDFD95D19EF6B3C00B439AE /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = FEDFD95B19EF6B3C00B439AE /* LaunchScreen.xib */; };
 		FEDFD96919EF6B3C00B439AE /* TempConverterTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEDFD96819EF6B3C00B439AE /* TempConverterTests.swift */; };
+		FEDFD97319EF6B5300B439AE /* red-to-green-gradient-thermometer-hi.png in Resources */ = {isa = PBXBuildFile; fileRef = FEDFD97219EF6B5300B439AE /* red-to-green-gradient-thermometer-hi.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		FEDFD96219EF6B3C00B439AE /* TempConverterTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TempConverterTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		FEDFD96719EF6B3C00B439AE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		FEDFD96819EF6B3C00B439AE /* TempConverterTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TempConverterTests.swift; sourceTree = "<group>"; };
+		FEDFD97219EF6B5300B439AE /* red-to-green-gradient-thermometer-hi.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "red-to-green-gradient-thermometer-hi.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +92,7 @@
 		FEDFD95019EF6B3C00B439AE /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				FEDFD97219EF6B5300B439AE /* red-to-green-gradient-thermometer-hi.png */,
 				FEDFD95119EF6B3C00B439AE /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -194,6 +197,7 @@
 			files = (
 				FEDFD95819EF6B3C00B439AE /* Main.storyboard in Resources */,
 				FEDFD95D19EF6B3C00B439AE /* LaunchScreen.xib in Resources */,
+				FEDFD97319EF6B5300B439AE /* red-to-green-gradient-thermometer-hi.png in Resources */,
 				FEDFD95A19EF6B3C00B439AE /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
